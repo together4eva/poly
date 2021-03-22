@@ -27,3 +27,5 @@ public class MyOOP {
 
 	}
 }
+
+///////my oop  ¼öÁ¤
